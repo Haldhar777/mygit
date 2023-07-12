@@ -7,6 +7,7 @@ public class Hello{
 		System.out.println("Please enter a number");
 		int n = sc.nextInt();
 		System.out.println("The number is " + n);
+		System.out.println("This is the latest change");
 		sc.close();
 	}
 }
